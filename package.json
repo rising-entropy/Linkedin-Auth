@@ -1,0 +1,26 @@
+{
+  "name": "Linkedin-Auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rising-entropy/Linkedin-Auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rising-entropy/Linkedin-Auth/issues"
+  },
+  "homepage": "https://github.com/rising-entropy/Linkedin-Auth#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "passport": "^0.5.2",
+    "passport-linkedin-oauth2": "^2.0.0"
+  }
+}
